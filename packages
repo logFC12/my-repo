@@ -15,9 +15,9 @@ Architecture: all
 Maintainer: logFC12
 Depends: nano
 Filename: ./nitepad.deb
-Size: 812
-MD5sum: a96f1ae3380a31f5c7058f6b597b85ee
-SHA1: 75811712b4148cf5e1611dc17e1d99bebaa3bc21
-SHA256: bd27d564d5128200f5eaa105f58120bf43b1263b70596e233625ef1bc87cab9a
-Description: Nano tapi namanya nitepad (Fixed Path).
+Size: 816
+MD5sum: 932874b49e374f83b17d77049e709739
+SHA1: 028e0644649fc770c34617b9095d4d9a7f66fef5
+SHA256: 625a13dfd740d21aab444abb7a576f29609f7fd228987d2f6d39757e0acaacd4
+Description: Nano tapi namanya nitepad (Fix Path Termux).
 
