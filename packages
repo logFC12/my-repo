@@ -9,3 +9,15 @@ SHA1: c9f3a8453bff4d171313986e7e4a60dbc5baeec0
 SHA256: a106435560ae2d7e683415f9d08e905b238bfa707666117c1b22373bde3dc553
 Description: Tool buat ADB dan Fastboot simpel di Termux.
 
+Package: nitepad
+Version: 1.0.0
+Architecture: all
+Maintainer: logFC12
+Depends: nano
+Filename: ./nitepad.deb
+Size: 752
+MD5sum: e2b65c5aea91f4b5896e0075e8d054d9
+SHA1: afec15e5c946a39c30bf3d4125ba55954c6e9642
+SHA256: a1e875be4b8755b31210c3bc1458f8f55b4b9b1c568ae957a143f80d5b3a0979
+Description: Nano tapi namanya nitepad biar keren.
+
